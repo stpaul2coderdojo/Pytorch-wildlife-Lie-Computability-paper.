@@ -583,6 +583,8 @@ standard of the work.
 
 # References
 
+
+[1] A. K. Dr Bheemaiah, “Symmetry-Resolved Tensor Topology for Computational Oversight of Wildlife Neural Networks: Spectral Diagonalization, Lie-Algebraic Structure, and Finite Convergence,” Sep. 02, 2026, Zenodo. doi: 10.5281/zenodo.22244362.
 1.  Beery, S., Morris, D., & Yang, S. (2019). *Efficient Pipeline for
     Camera Trap Image Review*. arXiv:1907.06772.
 2.  Hernandez, A., Miao, Z., Vargas, L., Beery, S., Dodhia, R., &
